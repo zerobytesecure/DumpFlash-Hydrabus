@@ -1,0 +1,7 @@
+*.pyc
+*.dmp
+*.un~
+*.bak
+*.bin
+
+setenv.cmd
